@@ -364,14 +364,14 @@ dialogs:
     resourceLoadFailed:
         title: Resources failed to load
         demoLinkText: shapez demo on Steam
-        descWeb: "One ore more resources could not be loaded. Make sure you have a
-            stable internet connection and try again. If this still doesn't
-            work, make sure to also disable any browser extensions (including
-            adblockers).<br><br> As an alternative, you can also play the
-            <demoOnSteamLinkText>. <br><br> Error Message:"
-        descSteamDemo: "One ore more resources could not be loaded. Try restarting the
-            game - If that does not help, try reinstalling and verifying the
-            game files via Steam. <br><br> Error Message:"
+        descWeb: "Eine oder mehrere Ressourcen konnten nicht geladen werden. Stelle 
+            sicher, dass du eine stabile Internetverbindung hast und versuche es 
+            erneut. Wenn das immer noch nicht funktioniert, deaktivere alle
+            Browsererweiterungen (Adblocker eingeschlossen).<br><br> Alternativ 
+            kannst du auch <demoOnSteamLinkText> spielen. <br><br> Fehlermeldung:"
+        descSteamDemo: "Eine oder mehrere Ressourcen konnten nicht geladen werden.
+            Versuche das Spiel neuzustarten - Wenn das nicht funktioniert, installiere
+            das Spiel neu und verifiziere die Spieldateien über Steam. <br><br> Fehlermeldung:"
     steamSsoError:
         title: Ausgeloggt aus Vollversion
         desc: Du wurdest aus der Browser-Vollversion ausgeloggt da entweder deine
